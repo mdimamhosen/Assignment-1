@@ -138,6 +138,7 @@ height: 250px;
 box-shadow: 5px 5px 5px rgb(133, 124, 124);
 
 
+
 }
 .t-5{
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -145,6 +146,7 @@ font-weight: 700;
 font-size: 45px;
 margin: auto;
 color: #FFFFFF;
+
 
 }
 .but-2{
@@ -161,8 +163,9 @@ margin-top: 9px;
 
 }
 .div-6{
-padding-left: 45px;
-padding-top: 50px;
+  padding-left: 45px;
+  padding-top: 50px;
+
 }
 .last-section{
   background-color: black;
